@@ -1,2 +1,3 @@
 # Calculator
-Socket, re, Tkinter
+本计算器用socket编写客户端、服务器端的网络通信，利用正则表达式处理计算式（包括加减乘除括号）。
+2016.12 in TJ 
